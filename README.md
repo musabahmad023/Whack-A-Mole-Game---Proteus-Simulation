@@ -24,5 +24,6 @@ Discrete Logic Implementation: This design is a unique example of a game impleme
 
 Proteus Simulation: The design is fully simulated in Proteus, making it easy to test and debug.
 
+Here is the ScreenShot of the Implementation
 ![Screenshot of Implementation](images/2.png)
 
