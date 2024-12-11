@@ -1,3 +1,5 @@
+<<<<<<<<< DOWNLOAD THE RAW FILE >>>>>>>>
+
 This repository contains the Proteus design files for a digital "Whack-A-Mole" game implemented using discrete logic components. Unlike designs that utilize a single microcontroller IC, this implementation leverages a network of 74xx series logic gates to manage game logic, scorekeeping, and timing. This approach provides a deeper understanding of the underlying digital logic involved in game design. The hardware includes:
 
 Seven-Segment Displays: Two 7-segment displays show the score and timer.
